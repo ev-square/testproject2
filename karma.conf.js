@@ -4,7 +4,7 @@
 module.exports = function (config) {
   config.set({
 
-    basePath: 'abcd',
+    basePath: 'abcd12345634rtergtfgfd',
 
     frameworks: ['jasmine', '@angular-devkit/build-angular'],
     plugins: [
